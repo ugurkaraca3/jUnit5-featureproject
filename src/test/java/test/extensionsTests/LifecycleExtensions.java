@@ -1,4 +1,4 @@
-package utility.extensionsTests;
+package test.extensionsTests;
 
 import org.junit.jupiter.api.extension.*;
 

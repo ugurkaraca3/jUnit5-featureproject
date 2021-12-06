@@ -1,4 +1,4 @@
-package utility.junitFeatureTests;
+package test.junitFeatureTests;
 
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.api.condition.EnabledOnJre;

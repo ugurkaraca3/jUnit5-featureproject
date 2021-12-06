@@ -1,4 +1,4 @@
-package utility.junitFeatureTests;
+package test.junitFeatureTests;
 import org.junit.jupiter.api.Assumptions;
 import org.junit.jupiter.api.Test;
 

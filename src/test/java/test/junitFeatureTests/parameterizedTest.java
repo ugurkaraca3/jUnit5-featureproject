@@ -1,4 +1,4 @@
-package utility.junitFeatureTests;
+package test.junitFeatureTests;
 
 
 import org.junit.jupiter.api.BeforeEach;
@@ -6,7 +6,7 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvFileSource;
 import org.junit.jupiter.params.provider.EnumSource;
 import org.junit.jupiter.params.provider.ValueSource;
-import utility.enumX;
+import test.enumX;
 
 
 public class parameterizedTest {
