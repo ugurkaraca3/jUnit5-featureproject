@@ -1,4 +1,4 @@
-package test.com;
+package utility;
 
 public enum enumX {
     SMALL_DECAF(1),
@@ -10,4 +10,3 @@ public enum enumX {
     enumX(int i) {
     }
 }
-
